@@ -10,7 +10,7 @@ section {
     position: relative;
     width: 100%;
     height: 100vh;
-    background-color: #212624;
+    background-color: #121212;
     overflow: hidden;
 }
 
@@ -24,7 +24,7 @@ section div {
     height: 100%;
 }
 section div a {
-    background-color: #19C37D;
+    background-color: #44B78B;
     color: white;
     padding: 12px;
     font-weight: 700;
